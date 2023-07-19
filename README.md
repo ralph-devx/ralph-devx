@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="100"/>
+</div>
 
-<!--
-**ralph-devx/ralph-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+  </a>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ralph-devx&style=for-the-badge&color=blue" alt=""/>
+</div>
