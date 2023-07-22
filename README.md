@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://vk.com/aka.ralph">
     <img src="https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://ru.stackoverflow.com/users/559836/ralph">
     <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=ralph-devx&style=for-the-badge&color=blue" alt=""/>
